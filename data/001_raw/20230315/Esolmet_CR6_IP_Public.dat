@@ -1,0 +1,5 @@
+"TOA5","Esolmet_CR6_IP","CR6","9884","CR6.Std.12.01","CPU:20230313_Esolmet_CR6.CR.CR6","45008","Public"
+"TIMESTAMP","RECORD","BattV","PTemp_C","I_dir","I_glo","I_dif","I_glo_inc","Indice_UV","Indice_UV_1","Indice_UV_2","BP_mbar","Rain_mm","AirTC","RH","WS_ms","WindDir"
+"TS","RN","Volts","Deg C","W/m2","W/m2","W/m2","W/m2","W/m2","I-UV","MED/hr","mbar","mm","Deg C","%","meters/second","degrees"
+"","","","","","","","","","","","","","","","",""
+"2023-03-15 13:46:24.332",2354,13.35775,33.09671,747.7573,965.0638,222.3216,993.2871,0.1808016,7.232065,3.101229,1017.605,0,30.44609,26.43436,0.9,0.0004050264
